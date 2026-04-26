@@ -1,16 +1,13 @@
 <!-- 🔷 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=AI%20%26%20Data%20Science&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Saranjith%20%7C%20Building%20Real-World%20AI%20Systems&descSize=18&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fbc2eb,100:a6c1ee&height=140&section=header&text=✨HELLO%20THERE!!%20I'm%20SARANJITH&fontSize=26&fontColor=2d2d2d&animation=fadeIn"/>
 </p>
-
-<h1 align="center">✨HELLO THERE !! I'm SARANJITH </h1>
-
 <p align="center">
 AI & Data Science Enthusiast | Software Developer | Machine learning
   🧑🏻‍💼Chairman – Club of Data Scientists (CODS)
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -39,7 +36,7 @@ Matplotlib • Seaborn • OpenCV •
 Git • GitHub • Jupyter • VS Code  
 Tableau • Power BI • Excel
 
-###Others
+### Others
 Streamlit • Roboflow • Flask • Computer vision • Data structures 
 
 ## 📈 Current Focus
@@ -53,12 +50,7 @@ Streamlit • Roboflow • Flask • Computer vision • Data structures
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://linkedin.com/in/saranjith-sureshkumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-<a href="mailto:saranjith623@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/saranjith-sureshkumar"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saranjith-sureshkumar/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Sarji_vibes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saranjith623@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EepycmzM)
 ---
 
 ## 📊 GitHub Stats
