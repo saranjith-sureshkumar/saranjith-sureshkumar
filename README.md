@@ -1,21 +1,106 @@
-✨HELLO THERE !!  I'm SARANJITH<br>AI & Data Science Enthusiast | Software Developer | Machine learning<br>🧑🏻‍💼Chairman – Club of Data Scientists (CODS)<br><br>⭐I’m a Data Science student currently transitioning into software development with a <br>strong focus on building solid fundamentals and using AI tools effectively .<br><br>I’m someone who enjoys telling stories with data💫—always curious in trying new things, <br>finding clever ways to solve problems and uncover useful insights from data⚓.<br><br><br>💼 Experience<br><br> 🚀Python Data Analytics Intern  <br>- Performed EDA using Pandas & NumPy  <br>- Built visualizations and extracted insights  <br>- Presented findings through reports  
+<!-- 🔷 Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Saranjith%20S&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<h1 align="center">HEY THERE, I'm SARANJITH 👋</h1>
 
+<p align="center">
+AI & Data Science Enthusiast • Python Developer • Building Intelligent Systems
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EepycmzM) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saranjith-sureshkumar/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Sarji_vibes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saranjith623@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=saranjith-sureshkumar&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=saranjith-sureshkumar&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=saranjith-sureshkumar&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🚀 About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saranjith-sureshkumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I am a Data Science student focused on building **AI-powered solutions and data-driven systems**.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saranjith-sureshkumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I work at the intersection of:
+- Machine Learning
+- Computer Vision
+- Data Analytics
 
+I aim to create **practical and impactful applications**, especially in assistive technology.
+
+---
+
+## 🧠 Key Projects
+
+### 🔹 AI-Based Object Detection Glove
+- Real-time object detection using YOLOv8 + OpenCV  
+- Voice feedback system for visually impaired users  
+- Directional awareness (left / center / right)
+
+### 🔹 Skin Disease Prediction System
+- Image-based ML classification model  
+- Data preprocessing and feature analysis  
+- Visualization of medical insights  
+
+---
+
+## 💼 Experience
+
+**Python Data Analytics Intern**
+- Performed EDA using Pandas & NumPy  
+- Built visual dashboards and reports  
+- Extracted insights from structured datasets  
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+Python • SQL • C • HTML • CSS  
+
+### ML & Data
+Pandas • NumPy • Scikit-learn • PyTorch • Keras  
+Matplotlib • Seaborn • OpenCV  
+
+### Tools
+Git • GitHub • Jupyter • VS Code  
+Tableau • Power BI  
+
+---
+
+## 🏆 Achievements
+
+- Chairman – Club of Data Scientists (CODS)  
+- 2nd Place – Project Innovation Competition  
+- Research Presenter – AR vs VR (National Level)  
+- Web Designing Competition Winner  
+
+---
+
+## 📈 Current Focus
+
+- Improving real-time AI systems  
+- Strengthening core programming skills  
+- Building production-level projects  
+- Exploring AI + software integration  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/saranjith-sureshkumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+<a href="mailto:saranjith623@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/saranjith-sureshkumar"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=saranjith-sureshkumar&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=saranjith-sureshkumar&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranjith-sureshkumar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Personal Philosophy
+
+> Build real things. Learn deeply. Stay consistent.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
