@@ -1,42 +1,21 @@
 <!-- 🔷 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Saranjith%20S&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=AI%20%26%20Data%20Science&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Saranjith%20%7C%20Building%20Real-World%20AI%20Systems&descSize=18&descAlignY=65" />
 </p>
 
-<h1 align="center">HEY THERE, I'm SARANJITH 👋</h1>
+<h1 align="center">✨HELLO THERE !! I'm SARANJITH </h1>
 
 <p align="center">
-AI & Data Science Enthusiast • Python Developer • Building Intelligent Systems
+AI & Data Science Enthusiast | Software Developer | Machine learning
+  🧑🏻‍💼Chairman – Club of Data Scientists (CODS)
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a Data Science student focused on building **AI-powered solutions and data-driven systems**.
+⭐I’m a Data Science student currently transitioning into software development with a <br>strong focus on building solid fundamentals and using AI tools effectively .<br><br>I’m someone who enjoys telling stories with data💫—always curious in trying new things, <br>finding clever ways to solve problems and uncover useful insights from data⚓.<br><br><br>💼 Experience<br><br> 🚀Python Data Analytics Intern <br>- Performed EDA using Pandas & NumPy <br>- Built visualizations and extracted insights <br>- Presented findings through reports
 
-I work at the intersection of:
-- Machine Learning
-- Computer Vision
-- Data Analytics
-
-I aim to create **practical and impactful applications**, especially in assistive technology.
-
----
-
-## 🧠 Key Projects
-
-### 🔹 AI-Based Object Detection Glove
-- Real-time object detection using YOLOv8 + OpenCV  
-- Voice feedback system for visually impaired users  
-- Directional awareness (left / center / right)
-
-### 🔹 Skin Disease Prediction System
-- Image-based ML classification model  
-- Data preprocessing and feature analysis  
-- Visualization of medical insights  
-
----
 
 ## 💼 Experience
 
@@ -47,29 +26,21 @@ I aim to create **practical and impactful applications**, especially in assistiv
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
-Python • SQL • C • HTML • CSS  
+Python • SQL • C • HTML • CSS • Javascript • PHP 
 
 ### ML & Data
 Pandas • NumPy • Scikit-learn • PyTorch • Keras  
-Matplotlib • Seaborn • OpenCV  
+Matplotlib • Seaborn • OpenCV •
 
 ### Tools
 Git • GitHub • Jupyter • VS Code  
-Tableau • Power BI  
+Tableau • Power BI • Excel
 
----
-
-## 🏆 Achievements
-
-- Chairman – Club of Data Scientists (CODS)  
-- 2nd Place – Project Innovation Competition  
-- Research Presenter – AR vs VR (National Level)  
-- Web Designing Competition Winner  
-
----
+###Others
+Streamlit • Roboflow • Flask • Computer vision • Data structures 
 
 ## 📈 Current Focus
 
